@@ -1,0 +1,1 @@
+// 3.7. Write a ts program to find roots of a quadratic equation using switch case.
